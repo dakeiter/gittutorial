@@ -20,7 +20,7 @@ theme_publication <- function(base_size = 12, base_family = "") {
       legend.title = element_text(size = 12, colour = "grey35")
       
     )
-
+}
 
 
 theme_presentation <- function(base_size = 28, base_family = "") {
@@ -47,4 +47,4 @@ theme_presentation <- function(base_size = 28, base_family = "") {
       legend.text = element_text(size = 16, colour = "grey35"),
       legend.title = element_text(size = 16, colour = "grey35"),
     )
-
+}
